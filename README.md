@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 The Prework Study Guide for this coding bootcamp was made in mind for helping new, overwhelmed students in this coding bootcamp. This project was both made as a learning experience and a way to keep my notes in a conveninent place. It can be used by other students as another perspective or as reference for things they might have forgotten to note down in their own study guide. It was a platform to test out the basics and warm myself up to coding; a sandbox. 
 
 ## Installation
